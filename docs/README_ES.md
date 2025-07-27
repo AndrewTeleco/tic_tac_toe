@@ -2,14 +2,14 @@
 
 ## 🎥 Demo en acción
 
-![Tic Tac Toe Demo](docs/assets/tic_tac_toe_demo.gif)
+![Tic Tac Toe Demo](assets/tic_tac_toe_demo.gif)
 
 ## 📸 Capturas de pantalla
 
 <p align="center">
-  <img src="docs/assets/tic_tac_toe_login.png" alt="Login" width="30%" style="margin-right: 10px;"/>
-  <img src="docs/assets/tic_tac_toe_game.png" alt="Juego Humano" width="30%" style="margin-right: 10px;"/>
-  <img src="docs/assets/tic_tac_toe_vs_machine.png" alt="Juego Máquina" width="30%"/>
+  <img src="assets/tic_tac_toe_login.png" alt="Login" width="30%" style="margin-right: 10px;"/>
+  <img src="assets/tic_tac_toe_game.png" alt="Juego Humano" width="30%" style="margin-right: 10px;"/>
+  <img src="assets/tic_tac_toe_vs_machine.png" alt="Juego Máquina" width="30%"/>
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)  
