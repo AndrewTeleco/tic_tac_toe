@@ -2,8 +2,8 @@
 
 📘 Available Languages:
 
-- 🇬🇧 [English](./README_EN.md)
-- 🇪🇸 [Español](./README_ES.md)
+- 🇬🇧 [English](./docs/README_EN.md)
+- 🇪🇸 [Español](./docs/README_ES.md)
 
 Choose your language above to explore the full project description.
 
