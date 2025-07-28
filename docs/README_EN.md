@@ -12,10 +12,20 @@
   <img src="assets/tic_tac_toe_vs_machine.png" alt="AI Game" width="30%"/>
 </p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](../LICENSE)  
-[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)  
-[![Build Status](https://github.com/AndrewTeleco/tic_tac_toe/actions/workflows/python-app.yml/badge.svg)](https://github.com/AndrewTeleco/tic_tac_toe/actions/workflows/python-app.yml)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)]()
+<p align="center">
+  <a href="../LICENSE" style="margin-right:15px;">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" />
+  </a>
+  <a href="https://www.python.org/" style="margin-right:15px;">
+    <img src="https://img.shields.io/badge/python-3.10%2B-blue.svg" alt="Python Version" />
+  </a>
+  <a href="https://github.com/AndrewTeleco/tic_tac_toe/actions/workflows/python-app.yml" style="margin-right:15px;">
+    <img src="https://github.com/AndrewTeleco/tic_tac_toe/actions/workflows/python-app.yml/badge.svg" alt="Build Status" />
+  </a>
+  <a href="https://github.com/AndrewTeleco/tic_tac_toe">
+    <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg" alt="Open Source" />
+  </a>
+</p>
 
 This is a complete **Tic Tac Toe** game built in Python with a `tkinter` GUI. The game supports both **human vs human** and **human vs AI** modes, with several difficulty levels ranging from easy to a very challenging opponent powered by advanced heuristics and alpha-beta pruning.
 
