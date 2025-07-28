@@ -370,4 +370,4 @@ Este proyecto está licenciado bajo la **Licencia MIT – Modificada para Uso No
 Puedes usar, modificar y compartir el código libremente siempre que no sea con fines comerciales.
 Para uso comercial, contacta con el autor.
 
-Consulta la licencia completa en el archivo [LICENSE](./LICENSE).
+Consulta la licencia completa en el archivo [LICENSE](../LICENSE).

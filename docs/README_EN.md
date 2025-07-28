@@ -375,4 +375,4 @@ This project is licensed under the **MIT License – Modified for Non-Commercial
 You are free to use, modify, and distribute the code for non-commercial purposes.
 For commercial licensing, please contact the author.
 
-See full license in the [LICENSE](./LICENSE) file.
+See full license in the [LICENSE](../LICENSE) file.
