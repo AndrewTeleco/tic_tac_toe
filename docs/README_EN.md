@@ -14,7 +14,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)  
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)  
-[![Build Status](https://img.shields.io/github/actions/workflow/status/youruser/tic_tac_toe/python-app.yml?branch=main)](https://github.com/youruser/tic_tac_toe/actions)  
+[![Build Status](https://img.shields.io/github/actions/workflow/status/AndrewTeleco/tic_tac_toe/python-app.yml?branch=main)](https://github.com/AndrewTeleco/tic_tac_toe/actions)  
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)]()
 
 This is a complete **Tic Tac Toe** game built in Python with a `tkinter` GUI. The game supports both **human vs human** and **human vs AI** modes, with several difficulty levels ranging from easy to a very challenging opponent powered by advanced heuristics and alpha-beta pruning.

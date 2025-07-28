@@ -14,7 +14,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)  
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)  
-[![Build Status](https://img.shields.io/github/actions/workflow/status/youruser/tic_tac_toe/python-app.yml?branch=main)](https://github.com/youruser/tic_tac_toe/actions)  
+[![Build Status](https://img.shields.io/github/actions/workflow/status/AndrewTeleco/tic_tac_toe/python-app.yml?branch=main)](https://github.com/AndrewTeleco/tic_tac_toe/actions)  
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)]()
 
 Este es un juego completo de **Tres en Raya** construido en Python con una interfaz gráfica usando `tkinter`. El juego soporta modos de **jugador contra jugador** y **jugador contra IA**, con varios niveles de dificultad que van desde fácil hasta un oponente muy desafiante potenciado por heurísticas avanzadas y poda alfa-beta.
