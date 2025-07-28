@@ -348,8 +348,8 @@ R: Los logs se guardan en archivos .md dentro de la carpeta /data/logs.
 Eso me ayuda a seguir creando proyectos de calidad y es un buen apoyo para seguir creciendo.
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO/tic_tac_toe" target="_blank">
-    <img src="https://img.shields.io/github/stars/TU_USUARIO/tic_tac_toe?style=social" alt="GitHub Repo Stars"/>
+  <a href="https://github.com/AndrewTeleco/tic_tac_toe" target="_blank">
+    <img src="https://img.shields.io/github/stars/AndrewTeleco/tic_tac_toe?style=social" alt="GitHub Repo Stars"/>
   </a>
 </p>
 
@@ -358,7 +358,7 @@ Eso me ayuda a seguir creando proyectos de calidad y es un buen apoyo para segui
 ## 👤 Autor
 
 **Andrés David Aguilar Aguilar**  
-GitHub: [@tuusuario]
+GitHub: [@AndrewTeleco]
 📅 Julio 2025
 
 ---

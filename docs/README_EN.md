@@ -355,15 +355,15 @@ If you found this project interesting or useful, consider giving it a **star on 
 It helps me continue creating high-quality projects and motivates me to keep improving.
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO/tic_tac_toe" target="_blank">
-    <img src="https://img.shields.io/github/stars/TU_USUARIO/tic_tac_toe?style=social" alt="GitHub Repo Stars"/>
+  <a href="https://github.com/AndrewTeleco/tic_tac_toe" target="_blank">
+    <img src="https://img.shields.io/github/stars/AndrewTeleco/tic_tac_toe?style=social" alt="GitHub Repo Stars"/>
   </a>
 </p>
 
 ## 👤 Author
 
 **Andrés David Aguilar Aguilar**  
-GitHub: [@youruser]
+GitHub: [@AndrewTeleco]
 📅 July 2025
 
 ---
