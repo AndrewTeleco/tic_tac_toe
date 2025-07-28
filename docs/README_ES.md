@@ -358,7 +358,7 @@ Eso me ayuda a seguir creando proyectos de calidad y es un buen apoyo para segui
 ## 👤 Autor
 
 **Andrés David Aguilar Aguilar**  
-GitHub: [@AndrewTeleco]
+GitHub: [@AndrewTeleco](https://github.com/AndrewTeleco)
 📅 Julio 2025
 
 ---

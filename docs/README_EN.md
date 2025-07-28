@@ -363,7 +363,7 @@ It helps me continue creating high-quality projects and motivates me to keep imp
 ## 👤 Author
 
 **Andrés David Aguilar Aguilar**  
-GitHub: [@AndrewTeleco]
+GitHub: [@AndrewTeleco](https://github.com/AndrewTeleco)
 📅 July 2025
 
 ---
