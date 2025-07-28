@@ -291,7 +291,7 @@ Este diagrama muestra los controles dentro del panel de configuración, incluyen
 ### Instalación:
 
 ```bash
-git clone https://github.com/youruser/tic_tac_toe.git
+git clone https://github.com/AndrewTeleco/tic_tac_toe.git
 cd tic_tac_toe
 pip install -r requirements.txt  # Opcional, sólo si agregas dependencias
 

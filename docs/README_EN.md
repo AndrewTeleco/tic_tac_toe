@@ -290,7 +290,7 @@ This shows the internal structure of the ButtonsPanel, which includes board size
 ### Installation
 
 ```bash
-git clone https://github.com/youruser/tic_tac_toe.git
+git clone https://github.com/AndrewTeleco/tic_tac_toe.git
 cd tic_tac_toe
 pip install -r requirements.txt  # Optional, only if you add dependencies later
 ```
