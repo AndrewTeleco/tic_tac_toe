@@ -2,30 +2,38 @@
 
 ## 🎥 Demo en acción
 
-![Tic Tac Toe Demo](assets/tic_tac_toe_demo.gif)
+<p align="center">
+  <img src="assets/tic_tac_toe_demo.gif" alt="Tic Tac Toe Demo" style="max-width: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 10px;" />
+</p>
+
+---
 
 ## 📸 Capturas de pantalla
 
 <p align="center">
-  <img src="assets/tic_tac_toe_login.png" alt="Login" width="30%" style="margin-right: 10px;"/>
-  <img src="assets/tic_tac_toe_game.png" alt="Juego Humano" width="30%" style="margin-right: 10px;"/>
-  <img src="assets/tic_tac_toe_vs_machine.png" alt="Juego Máquina" width="30%"/>
+  <img src="assets/tic_tac_toe_login.png" alt="Login" width="30%" style="margin-right: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); border-radius: 8px;" />
+  <img src="assets/tic_tac_toe_game.png" alt="Human Game" width="30%" style="margin-right: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); border-radius: 8px;" />
+  <img src="assets/tic_tac_toe_vs_machine.png" alt="AI Game" width="30%" style="box-shadow: 0 4px 8px rgba(0,0,0,0.15); border-radius: 8px;" />
 </p>
 
-<p align="center">
-  <a href="../LICENSE" style="margin-right:15px;">
+---
+
+<p align="center" style="margin-top: 1rem;">
+  <a href="../LICENSE" style="margin-right: 20px; text-decoration:none;">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" />
   </a>
-  <a href="https://www.python.org/" style="margin-right:15px;">
+  <a href="https://www.python.org/" style="margin-right: 20px; text-decoration:none;">
     <img src="https://img.shields.io/badge/python-3.10%2B-blue.svg" alt="Python Version" />
   </a>
-  <a href="https://github.com/AndrewTeleco/tic_tac_toe/actions/workflows/python-app.yml" style="margin-right:15px;">
+  <a href="https://github.com/AndrewTeleco/tic_tac_toe/actions/workflows/python-app.yml" style="margin-right: 20px; text-decoration:none;">
     <img src="https://github.com/AndrewTeleco/tic_tac_toe/actions/workflows/python-app.yml/badge.svg" alt="Build Status" />
   </a>
-  <a href="https://github.com/AndrewTeleco/tic_tac_toe">
+  <a href="https://github.com/AndrewTeleco/tic_tac_toe" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg" alt="Open Source" />
   </a>
 </p>
+
+---
 
 Este es un juego completo de **Tres en Raya** construido en Python con una interfaz gráfica usando `tkinter`. El juego soporta modos de **jugador contra jugador** y **jugador contra IA**, con varios niveles de dificultad que van desde fácil hasta un oponente muy desafiante potenciado por heurísticas avanzadas y poda alfa-beta.
 
